@@ -1,7 +1,6 @@
 ;Program ini menghitung luas persegi
 ;dengan dua buah input variable bebas panjang dan lebar yang dapat bernilai positif maupun negatif
 ;output luas sebagai variable terikat
-;Loki Lang
 NAME "EKA"
 INCLUDE 'emu8086.inc'
 #MAKE_COM#
